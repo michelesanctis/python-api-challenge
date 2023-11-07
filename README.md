@@ -55,7 +55,7 @@ Feel free to adjust your specifications but make sure to set a reasonable limit 
 5) Add the hotel name and the country as additional information in the hover message for each city on the map as in the following image:
 
 
-## Hints and Considerations
+### Hints and Considerations
 - The city data that you generate is based on random coordinates and different query times, so your outputs will not be an exact match to the provided starter notebook.
 - If you'd like a refresher on the geographic coordinate system, this siteLinks to an external site. has great information.
 - Take some time to study the OpenWeatherMap API. Based on your initial study, you should be able to answer basic questions about the API: Where do you request the API key? Which Weather API in particular will you need? What URL endpoints does it expect? What JSON structure does it respond with? Before you write a line of code, you should have a crystal-clear understanding of your intended outcome.
